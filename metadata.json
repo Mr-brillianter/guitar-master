@@ -1,0 +1,5 @@
+{
+  "name": "CAGED Master",
+  "description": "Interactive guitar practice tool for the CAGED system. Automatically calculates positions, fingerings, and plays chord progressions for any key.",
+  "requestFramePermissions": []
+}
